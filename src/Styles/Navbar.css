@@ -26,10 +26,6 @@
   background: -webkit-gradient(linear, left top, right top, from(#afc8f7), color-stop(#d2ceda), to(#a9dabd));
   background: linear-gradient(0.25turn, #afc8f7, #d2ceda, #a9dabd);
   padding: 10px;
-  -webkit-box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-          box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-  -webkit-transform: translateY(-0.25em);
-          transform: translateY(-0.25em);
   border-radius: 5px;
 }
 

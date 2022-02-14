@@ -22,11 +22,10 @@
 .navbar a:hover {
     background: $background;
     padding: 10px;
-    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-    transform: translateY(-0.25em);
     border-radius: 5px;
 }
 
 .navbar .links {
     margin-right: 20px ;
 }
+
