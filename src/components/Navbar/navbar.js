@@ -5,7 +5,7 @@ import { BiSearch } from "react-icons/bi";
 function Navbar() {
   return (
     <>
-      <div className="navbar shadow p-3 mb-5 rounded bg-body d-flex justify-content-flex-end">
+      <div className="navbar shadow p-3 rounded bg-body d-flex justify-content-flex-end">
         <div className="links text-warning hover-zoom">
           <a href="/home">Home</a>
           <a href="/about">About</a>
