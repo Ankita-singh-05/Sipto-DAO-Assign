@@ -1,0 +1,26 @@
+// COLOR
+$black-color : rgb(10, 10, 10);
+$grey-color : rgb(158, 152, 152);
+$white-color : rgb(255, 255, 255) ;
+$red-color : rgb(179, 4, 4) ;
+$bg-body : rgba(150, 87, 46, 0) ;
+$heading-color : #087fb6;
+$background : linear-gradient(0.25turn, #afc8f7, #d2ceda, #a9dabd);
+
+// FONTS
+$title-font : Arial, Helvetica, sans-serif;
+$body-font : "Times New Roman", Times, serif;
+$button-font : Arial, Helvetica, sans-serif;
+
+@mixin buttonStyle() {
+    background: $background ;
+    color: $black-color;
+    border-radius: 5px;
+    padding: 17px;
+    font-family: $button-font;
+    font-weight: 700;
+    border: none;
+    margin-top: 20px;
+}
+
+

@@ -1,0 +1,20 @@
+@import "../Variables/Variables.scss";
+
+.ContactForm {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 28%;
+    border-radius: 20px;
+
+
+    .heading {
+        color: $heading-color;
+        font-family: $title-font;
+        margin-bottom: 10px;
+    }
+
+    .button {
+        @include buttonStyle;
+      }
+}

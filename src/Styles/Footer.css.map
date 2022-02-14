@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAC;EACL,KAAK,ECGQ,OAAO;EDFpB,WAAW,ECMD,KAAK,EAAE,SAAS,EAAE,UAAU;CDLzC",
+    "sources": [
+        "Footer.scss",
+        "../Variables/Variables.scss"
+    ],
+    "names": [],
+    "file": "Footer.css"
+}

@@ -1,0 +1,30 @@
+.ContactForm {
+  width: 50%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 28%;
+  border-radius: 20px;
+}
+
+.ContactForm .heading {
+  color: #087fb6;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 10px;
+}
+
+.ContactForm .button {
+  background: -webkit-gradient(linear, left top, right top, from(#afc8f7), color-stop(#d2ceda), to(#a9dabd));
+  background: linear-gradient(0.25turn, #afc8f7, #d2ceda, #a9dabd);
+  color: #0a0a0a;
+  border-radius: 5px;
+  padding: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  border: none;
+  margin-top: 20px;
+}
+/*# sourceMappingURL=JoinNowForm.css.map */

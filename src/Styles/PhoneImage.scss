@@ -1,0 +1,20 @@
+@import "../Variables/Variables.scss";
+
+.phoneImageContent {
+    margin-top: 10%;
+    margin-left: 4px;
+
+    .phoneImagePara {
+        width: 500px;
+    }
+
+    .button {
+        @include buttonStyle;
+    }
+
+    .heading {
+        color: $heading-color;
+        font-family: $title-font;
+    }
+
+}

@@ -1,0 +1,10 @@
+@import "../Variables/variables.scss";
+
+.testimonialheading {
+    align-items: center;
+    justify-content: center;
+    color: $heading-color ;
+    margin-left: 35%;
+    font-family: $title-font;
+    margin-bottom: 30px;
+}

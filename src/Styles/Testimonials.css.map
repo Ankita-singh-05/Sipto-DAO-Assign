@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,mBAAmB,CAAC;EAChB,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,KAAK,ECCQ,OAAO;EDApB,WAAW,EAAE,GAAG;EAChB,WAAW,ECGD,KAAK,EAAE,SAAS,EAAE,UAAU;EDFtC,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "Testimonials.scss",
+        "../Variables/variables.scss"
+    ],
+    "names": [],
+    "file": "Testimonials.css"
+}
