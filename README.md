@@ -1,4 +1,4 @@
-# App Deployed Link: [https://sipto-dao-app.herokuapp.com/](https://sipto-dao-app.herokuapp.com/).
+# Do check out the app here: [https://sipto-dao-app.herokuapp.com/](https://sipto-dao-app.herokuapp.com/).
 
 
 # Getting Started with Create React App
