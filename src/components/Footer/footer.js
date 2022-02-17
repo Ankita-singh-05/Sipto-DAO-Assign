@@ -158,7 +158,7 @@ function Footer() {
         <div class="bg-light py-2">
           <div class="container text-center">
             <p class="text-muted mb-0 py-2">
-              © 2022 by Coming Soon Sipto DAO. All rights reserved.
+              © 2022 Coming Soon by Sipto DAO. All rights reserved.
             </p>
           </div>
         </div>
